@@ -1,2 +1,4 @@
-i am a JS and Node.JS developer.
-just coding for fun
+**just coding for fun**
+
+Languages i know the most: Node.JS and JS
+Languages i have a little experience on: Python, C#, C++
