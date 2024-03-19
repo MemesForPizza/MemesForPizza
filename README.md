@@ -1,5 +1,5 @@
-**just coding for fun**
+# Welcome!
+Hello! I'm MemesForPizza! Currently, I'm still a student and a intermediate programmer, although I do not contribute to GitHub since I don't feel ready yet. Hope i can contribute some day.
 
-Languages i know the most: JavaScript
+I understand TypeScript/Javascript the most, and some C#, C++, Python. I am still exploring the world of coding!
 
-Languages i have a little experience on: Python, C#, C++
